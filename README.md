@@ -1,5 +1,9 @@
-# frontend-web
-
+# Vue 3 + Element Plus Starter 
+This is a starter pack for Vue 3 + Element Plus
+* Vue 3
+* Element Plus
+* Vuex
+* Router
 ## Project setup
 ```
 npm install
